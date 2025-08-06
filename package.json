@@ -1,0 +1,43 @@
+{
+  "name": "bts-cursor",
+  "version": "1.0.0",
+  "description": "Customize your browser cursor with official BTS logos. Features smart background detection that automatically switches between black and white BTS logos.",
+  "main": "background.js",
+  "scripts": {
+    "build": "echo 'Extension is ready for Chrome Web Store'",
+    "test": "echo 'Test the extension in Chrome'"
+  },
+  "keywords": [
+    "bts",
+    "cursor",
+    "chrome-extension",
+    "kpop",
+    "army",
+    "customization",
+    "browser"
+  ],
+  "author": "BTS Cursor Developer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayrajpamnani/BTS-Cursor-Chrome-Extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jayrajpamnani/BTS-Cursor-Chrome-Extension/issues"
+  },
+  "homepage": "https://github.com/jayrajpamnani/BTS-Cursor-Chrome-Extension#readme",
+  "engines": {
+    "chrome": ">=88.0.0"
+  },
+  "manifest": {
+    "version": 3,
+    "permissions": [
+      "storage",
+      "activeTab",
+      "tabs"
+    ],
+    "host_permissions": [
+      "<all_urls>"
+    ]
+  }
+} 
