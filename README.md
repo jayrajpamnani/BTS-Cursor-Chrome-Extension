@@ -10,6 +10,8 @@ A beautiful Chrome extension that customizes your browser cursor with official B
 - **Persistent Cursor**: Maintains custom cursor across all pages and interactions
 - **Official BTS Branding**: Uses authentic BTS logos and design
 
+**Try the Extension here:** https://chromewebstore.google.com/detail/bts-cursor-customizer/cadgnckopmbomidpncdfaibifgfeopkf
+
 ## 🎯 How It Works
 
 The extension injects custom CSS to replace the default browser cursor with BTS logo cursors. The smart auto mode detects the background color at your cursor position and automatically chooses the most visible logo:
