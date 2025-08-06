@@ -138,4 +138,4 @@ Planned features:
 
 ---
 
-**Made with 💜 for ARMY worldwide** 
+**Made with 💜 for ARMY worldwide**
