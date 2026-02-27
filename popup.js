@@ -202,7 +202,7 @@ function showError(message) {
 function showStatus(message, type = 'info') {
   if (status) {
     status.textContent = message;
-    status.className = `status ${type}`;
+    status.className = `status-msg status-${type}`;
     status.style.display = 'block';
     setTimeout(() => {
       status.style.display = 'none';
